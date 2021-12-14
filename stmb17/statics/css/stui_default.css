@@ -10,7 +10,7 @@
 /* header-logo */
 .stui-header__logo{float:left;}
 .stui-header__logo{ width: 282px; margin: 15px 0;}
-.stui-header__logo .logo{display:block; width:282px; height:60px; background:url(https://cdn.jsdelivr.net/gh/spcmsa/js@master/stmb17/statics/img/logo_min.png) no-repeat; background-position:50% 50%; background-size:cover;}
+.stui-header__logo .logo{display:block; width:282px; height:60px; background:url(https://cdn.jsdelivr.net/gh/spcmsa/js@main/stmb17/statics/img/logo_min.png) no-repeat; background-position:50% 50%; background-size:cover;}
 
 /* header-menu */
 .stui-header__menu{position:relative; background-color: #333; color: #fff;}
@@ -37,9 +37,9 @@
 
 /* media */
 .stui-vodlist__media li .score{ position: relative;}
-.stui-vodlist__media li .score .star{zoom: 50%; display: inline-block; position: relative; top: 5px; width: 160px; height: 25px; background: url(https://cdn.jsdelivr.net/gh/spcmsa/js@master/stmb17/statics/img/star1.png) 0 0 no-repeat;}
+.stui-vodlist__media li .score .star{zoom: 50%; display: inline-block; position: relative; top: 5px; width: 160px; height: 25px; background: url(https://cdn.jsdelivr.net/gh/spcmsa/js@main/stmb17/statics/img/star1.png) 0 0 no-repeat;}
 .stui-vodlist__media li .score .branch{ display: inline-block; font-size: 12px; color: red;}
-.stui-vodlist__media li .score .star .star-cur{display: inline-block; background: url(https://cdn.jsdelivr.net/gh/spcmsa/js@master/stmb17/statics/img/star.png) 0 0 no-repeat; height: 25px; position: absolute; top: 0;  z-index: 1;}
+.stui-vodlist__media li .score .star .star-cur{display: inline-block; background: url(https://cdn.jsdelivr.net/gh/spcmsa/js@main/stmb17/statics/img/star.png) 0 0 no-repeat; height: 25px; position: absolute; top: 0;  z-index: 1;}
 
 /* content */
 .stui-content__detail,.stui-content__thumb{display:table-cell;vertical-align:top}
@@ -91,7 +91,7 @@
     .stui-header__top{ margin-bottom: 10px;}
 	.stui-header__logo{margin:10px 0 10px}
 	.stui-header__logo,.stui-header__logo .logo{ width:127px; height:30px;}
-	.stui-header__logo .logo{width:127px;height:30px; background:url(https://cdn.jsdelivr.net/gh/spcmsa/js@master/stmb17/statics/img/logo.png) no-repeat; background-position:50% 50%; background-size:cover;}
+	.stui-header__logo .logo{width:127px;height:30px; background:url(https://cdn.jsdelivr.net/gh/spcmsa/js@main/stmb17/statics/img/logo.png) no-repeat; background-position:50% 50%; background-size:cover;}
 	.stui-header__search{ margin: 10px 0 10px 30px; width: 200px;}
 	.stui-header__search .form-control{ height: 30px;}
 	.stui-header__search .submit{ width: 30px; height: 30px;}
